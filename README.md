@@ -1,3 +1,7 @@
+- [] [marlin probe](https://www.pandapi3d.com/cart?appSectionParams=%7B%22origin%22%3A%22cart-popup%22%7D)
+- [] PEI sheet
+- [] [aluminium flat bed](https://preciseprinterparts.com/ender-3--cast-aluminum-bed.html no magnets) 
+ 
  ![pic](https://raw.githubusercontent.com/bigtreetech/BIGTREETECH-SKR-V1.3/master/BTT%20SKR%20V1.4/Hardware/SKR-V1.4-Turbo-pinout.jpg)
 
 
